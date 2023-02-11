@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "عمر تيست1",
+        "en": "Theme Omar"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/omarsayed12/salla-theme-empirical",
     "author_email": "support@salla.dev",
     "features": [
         "mega-menu",
